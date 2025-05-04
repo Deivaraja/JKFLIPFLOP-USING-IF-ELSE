@@ -54,7 +54,7 @@ qbar=~q;
 end
 endmodule
 ~~~
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:MANIKANDAN M  RegisterNumber:212224040183
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:DEIVARAJA R  RegisterNumber:212224240031
 */
 **RTL LOGIC FOR FLIPFLOPS**
 ![exp7](https://github.com/user-attachments/assets/4fa16774-3612-4446-b95a-f96254ef2725)
